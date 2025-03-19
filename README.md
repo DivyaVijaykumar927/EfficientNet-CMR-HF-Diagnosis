@@ -3,10 +3,6 @@ An Intelligent Ensemble EfficientNet Prediction System for Cardiac MRI-Based Hea
 Overview
 This project focuses on diagnosing heart failure severity using an ensemble of EfficientNet models (B0–B7) trained on cardiac magnetic resonance (CMR) images. The system utilizes multiple EfficientNet variants optimized with Adam, SGD, and RMSprop optimizers to enhance predictive accuracy.
 
-EfficientNet-CMR-HF-Diagnosis/
-│── NOTEBOOK/                # Contains Jupyter notebooks (.ipynb) for training, validation, and testing  
-│── Excel TTV/               # Contains Excel files with model weight values  
-│── HEART_MODELS/                # Pretrained and fine-tuned EfficientNet model weights  
 
 Key Features
 Uses EfficientNet models (B0–B7) for feature extraction from CMR images.
